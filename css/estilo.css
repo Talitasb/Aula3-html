@@ -1,0 +1,55 @@
+#p{
+    color: #8a2be2;
+    text-transform: uppercase;
+}
+#p{
+    font-family: verdana;
+    font-size: 36px;
+    color: cornflowerblue;
+}
+.quad1{
+    background-color: green;
+    width: 50px;
+    height: 50px;
+}
+.quad2{
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+}
+.quad3{
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+}
+.quad4{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+}
+.quad5{
+    background-color: blueviolet;
+    width: 30px;
+    height: 30px;
+}
+.amarelo{
+    background-color: yellow;
+    width: 55px;
+    height: 55px;
+    transform: skew(20deg);
+    transform: rotate(45deg);
+    margin-left: 30%;
+
+}
+.verde{
+    background-color: green;
+    width: 150px;
+    height: 75px;
+}
+.azul{
+    background-color: blue;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: block; margin-left: auto; margin-right: auto;
+}
